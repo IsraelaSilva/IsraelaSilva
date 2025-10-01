@@ -22,7 +22,7 @@ Aqui você encontrará meus projetos universitários, projetos pessoais e cursos
 
 ---
 
-## ![](https://img.icons8.com/color-glass/35/pink-cute-folder.png) Um pouco sobre mim
+## ![](https://img.icons8.com/color-glass/24/pink-cute-folder.png) Um pouco sobre mim
 
 - 🌸 Tenho **21** aninhos.  
 - 🎓 Estudo **Ciência da Computação** na **FACAP**  
