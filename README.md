@@ -1,7 +1,7 @@
 
 # Olá, mundo!🩷🩷🩷 
 
-<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="120"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzljMWtzMGc5MDdkcWZmc200bnAzanp0M21pMWh3eDJ4bjB5NnVyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hENDkVRxKsctCpuAun/giphy.gif" width="120"/>
 
 ## Olá! Eu sou Israela 🌷
 
@@ -9,7 +9,7 @@
 Aqui você encontrará meus projetos universitários, projetos pessoais e cursos de treinamento!
 
 ---
-[
+
 ## 👩🏼‍💻 Línguas e Tecnologias
 
 ![HTML](https://img.icons8.com/windows/32/F25081/html.png) 
