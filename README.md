@@ -1,19 +1,22 @@
 
-# Olá, mundo! 🌟
+# Olá, mundo! 
 
 <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="120"/>
 
 ## Olá! Eu sou Israela 🌸
 
-💖 Seja muito bem-vindo ao meu GitHub!  
+ Seja muito bem-vindo ao meu GitHub!  
 Aqui você encontrará meus projetos universitários, projetos pessoais e cursos de treinamento!
 
 ---
 
 ## 👩‍💻 Línguas e Tecnologias
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=black)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=black)
+bg-pink-500 
+text-white 
+px-2 py-1 rounded 
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=g-pink-500&logo=html5&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=g-pink-500&logo=css3&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=black)
