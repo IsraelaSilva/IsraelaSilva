@@ -12,13 +12,13 @@ Aqui você encontrará meus projetos universitários, projetos pessoais e cursos
 [
 ## 👩🏼‍💻 Línguas e Tecnologias
 
-![HTML](https://img.icons8.com/windows/32/F25081/html.png)  
-![CSS](https://img.icons8.com/material-outlined/32/F25081/css.png)  
+![HTML](https://img.icons8.com/windows/32/F25081/html.png) 
+![CSS](https://img.icons8.com/material-outlined/32/F25081/css.png) 
 ![JavaScript](https://img.icons8.com/parakeet-line/32/F25081/js.png)  
-![Node.js](https://img.icons8.com/windows/32/F25081/nodejs.png)  
-![Python](https://img.icons8.com/connect/32/F25081/python.png)  
-![SQL](https://img.icons8.com/material-outlined/32/F25081/sql.png)  
-![C++](https://img.icons8.com/ios-filled/32/F25081/c-plus-plus-logo.png)  
+![Node.js](https://img.icons8.com/windows/32/F25081/nodejs.png) 
+![Python](https://img.icons8.com/connect/32/F25081/python.png) 
+![SQL](https://img.icons8.com/material-outlined/32/F25081/sql.png) 
+![C++](https://img.icons8.com/ios-filled/32/F25081/c-plus-plus-logo.png) 
 
 ---
 
