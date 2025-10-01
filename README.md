@@ -9,12 +9,12 @@
 Aqui você encontrará meus projetos universitários, projetos pessoais e cursos de treinamento!
 
 ---
-
+[
 ## 👩🏼‍💻 Línguas e Tecnologias
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=black)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=black)
-![JavaScript](file:///C:/Users/israe/AppData/Local/Temp/94ddb715-6b0f-4d8e-aa77-2fd6f678c998_Icons8.zip.998/icons8-javascript-50.png?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](file:///C:/Users/israe/AppData/Local/Temp/94ddb715-6b0f-4d8e-aa77-2fd6f678c998_Icons8.zip.998/icons8-javascript-50.png](https://img.icons8.com/?size=100&id=10263&format=png&color=F25081)?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=black)
