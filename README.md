@@ -22,7 +22,7 @@ Aqui você encontrará meus projetos universitários, projetos pessoais e cursos
 
 ---
 
-## ![Um pouco sobre mim](https://img.icons8.com/emoji/48/tulip-emoji.png)
+## ![](https://img.icons8.com/emoji/48/tulip-emoji.png)Um pouco sobre mim
 
 - 🌸 Tenho **21** aninhos.  
 - 🎓 Estudo **Ciência da Computação** na **FACAP**  
