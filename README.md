@@ -12,7 +12,7 @@ Aqui você encontrará meus projetos universitários, projetos pessoais e cursos
 [
 ## 👩🏼‍💻 Línguas e Tecnologias
 
-![HTML](https://img.icons8.com/windows/32/F25081/html.png)
+![HTML](https://img.icons8.com/windows/32/F25081/html.png)<br>
 ![CSS](https://img.icons8.com/material-outlined/32/F25081/css.png)
 ![JavaScript](https://img.icons8.com/parakeet-line/32/F25081/js.png)
 ![Node.js](https://img.icons8.com/windows/32/F25081/nodejs.png)
