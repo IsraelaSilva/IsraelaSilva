@@ -32,7 +32,7 @@ Aqui você encontrará meus projetos universitários, projetos pessoais e cursos
 
 ✨ Vamos criar coisas incríveis juntos! ✨  
 
-📫 Contato: [israelferreirasilva@gmail.com]
+📫 Contato: [israelaferreirasilva@gmail.com]
 
 
 
