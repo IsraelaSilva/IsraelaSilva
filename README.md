@@ -1,55 +1,60 @@
-<h1 align="center">Olá, eu sou a Israela 👋</h1>
+# Olá, mundo!🩷🩷🩷
 
-<p align="center">
-  <b>Desenvolvedora Full Stack</b> · Estudante de Ciência da Computação na FACAPE
-</p>
+   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzljMWtzMGc5MDdkcWZmc200bnAzanp0M21pMWh3eDJ4bjB5NnVyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hENDkVRxKsctCpuAun/giphy.gif" width="120"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/israela-silva-ferreira-686218374">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:israelaferreirasilva@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
-  </a>
-</p>
+   ## Eu sou Israela 🌷
+
+**Desenvolvedora Full Stack** e estudante de **Ciência da Computação** na **FACAPE**.
+
+Seja muito bem-vindo ao meu GitHub!
+Aqui você encontra meus projetos pessoais, universitários e o que venho aprendendo pelo caminho.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-F25081?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israela-silva-ferreira-686218374)
+[![E-mail](https://img.shields.io/badge/E--mail-F25081?style=for-the-badge&logo=gmail&logoColor=white)](mailto:israelaferreirasilva@gmail.com)
 
 ---
 
-### Sobre mim
+## ![](https://img.icons8.com/color-glass/24/pink-cute-folder.png)  Um pouco sobre mim
 
-- 💼 Atualmente estagiária de desenvolvimento, atuando no front e no back-end
-- 🎓 Cursando Ciência da Computação na FACAPE, em Petrolina-PE
+- 💼 Sou **estagiária de desenvolvimento**, atuando no front-end e no back-end
+- 🎓 Estudo **Ciência da Computação** na **FACAPE**
+- 🌱 No momento, aprofundando em **TypeScript** e **Node.js**
+- 🤝 Aberta a novas oportunidades e a projetos em parceria
+- 🚀 Sempre aprendendo coisas novas!
 
-### Tecnologias
+---
+
+## 👩🏼‍💻 Línguas e Tecnologias
 
 **Front-end**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML](https://img.icons8.com/windows/32/F25081/html.png)
+![CSS](https://img.icons8.com/material-outlined/32/F25081/css.png)
+![JavaScript](https://img.icons8.com/parakeet-line/32/F25081/js.png)
+![TypeScript](https://img.icons8.com/windows/32/F25081/typescript.png)
 
 **Back-end e dados**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Node.js](https://img.icons8.com/windows/32/F25081/nodejs.png)
+![Python](https://img.icons8.com/connect/32/F25081/python.png)
+![SQL](https://img.icons8.com/material-outlined/32/F25081/sql.png)
+![C++](https://img.icons8.com/ios-filled/32/F25081/c-plus-plus-logo.png)
 
 **Ferramentas**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-### Projetos
-
-| Projeto | Descrição | Status |
-|---|---|---|
-| [GestaoTreino](https://github.com/IsraelaSilva/GestaoTreino) | Sistema para gestão de treinos, feito em TypeScript | 🚧 Em desenvolvimento |
-| [meu.site](https://github.com/IsraelaSilva/meu.site) | Meu site pessoal e portfólio | ✅ Online |
-| [Licitações FACAPE](https://github.com/IsraelaSilva/es1_projeto_licitacoes_facape) | Projeto em equipe da disciplina de Engenharia de Software I | 🎓 Acadêmico |
+![Git](https://img.icons8.com/windows/32/F25081/git.png)
+![GitHub](https://img.icons8.com/windows/32/F25081/github.png)
 
 ---
 
-<p align="center"><i>Obrigada pela visita! ✨</i></p>
+## 🌸 Projetos
+
+| Projeto | Sobre | Status |
+|---|---|---|
+| [GestaoTreino](https://github.com/IsraelaSilva/GestaoTreino) | Sistema de gestão de treinos em TypeScript | 🚧 Em desenvolvimento |
+| [meu.site](https://github.com/IsraelaSilva/meu.site) | Meu site pessoal | 💻 Pessoal |
+| [Licitações FACAPE](https://github.com/IsraelaSilva/es1_projeto_licitacoes_facape) | Projeto em equipe de Engenharia de Software I | 🎓 Universitário |
+
+---
+
+✨ Vamos criar coisas incríveis juntos! ✨
